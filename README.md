@@ -1,8 +1,7 @@
-[![Header](https://github.com/eknikan/eknikan/blob/main/pic/eknikan.png)]
+![Header](https://github.com/eknikan/eknikan/blob/main/pic/eknikan.png)
 ## I'm a QA Engineer 
 ## Ak Bars Digital
-## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+
 
 
 ### Language and Tools
