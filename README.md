@@ -1,4 +1,4 @@
-[![Header](https://github.com/eknikan/eknikan/blob/main/assets/Frame%20635%20(3).png)]
+[![Header](https://github.com/eknikan/eknikan/blob/main/pic/eknikan.png)]
 ## I'm a QA Engineer 
 ## Ak Bars Digital
 ## My CV
