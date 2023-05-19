@@ -25,10 +25,9 @@
 ![Header](https://img.shields.io/badge/RabbitMQ-090909?style=for-the-badge&logo=Rabbit&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Vault-090909?style=for-the-badge&logo=Vault&logoColor=8cc4d7)
 
-### Testing Documentation
+### My examples
 
 - [Test-Analysis](https://github.com/eknikan/test-analysis)
-- [Bug-Reports](https://github.com/eknikan/bug-reports)
 - [SQL Queries](https://github.com/eknikan/SQL)
 - [Postman Collections](https://github.com/eknikan/postman)
 - [JMeter scenarios](https://github.com/eknikan/jmeter)
