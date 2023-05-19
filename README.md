@@ -12,13 +12,14 @@
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/Instana-090909?style=for-the-badge&logo=azuredevops&logoColor=0074d0)
+![Header](https://img.shields.io/badge/Instana-090909?style=for-the-badge&logo=instana&logoColor=0074d0)
 ![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
-![Header](https://img.shields.io/badge/TeamCity-090909?style=for-the-badge&logo=mongodb&logoColor=4aa73c)
+![Header](https://img.shields.io/badge/TeamCity-090909?style=for-the-badge&logo=teamcity&logoColor=4aa73c)
 ![Header](https://img.shields.io/badge/Kibana-090909?style=for-the-badge&logo=kibana&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/Sentry-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Sentry-090909?style=for-the-badge&logo=Sentry&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/JMeter-090909?style=for-the-badge&logo=JMeter&logoColor=8cc4d7)
 
 ### Testing Documentation
 
