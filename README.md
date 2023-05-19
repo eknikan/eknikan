@@ -6,6 +6,7 @@
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+![Header](https://img.shields.io/badge/Confluence-090909?style=for-the-badge&logo=Confluence&logoColor=136be1)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=TestRail&logoColor=71b556)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
@@ -21,6 +22,7 @@
 ![Header](https://img.shields.io/badge/Sentry-090909?style=for-the-badge&logo=Sentry&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/JMeter-090909?style=for-the-badge&logo=JMeter&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Unleash-090909?style=for-the-badge&logo=Unleash&logoColor=8cc4d7)
+[Header](https://img.shields.io/badge/Rabbit MQ-090909?style=for-the-badge&logo=Rabbit&logoColor=8cc4d7)
 
 ### Testing Documentation
 
