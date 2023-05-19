@@ -23,6 +23,7 @@
 ![Header](https://img.shields.io/badge/JMeter-090909?style=for-the-badge&logo=JMeter&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Unleash-090909?style=for-the-badge&logo=Unleash&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/RabbitMQ-090909?style=for-the-badge&logo=Rabbit&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Vault-090909?style=for-the-badge&logo=Vault&logoColor=8cc4d7)
 
 ### Testing Documentation
 
