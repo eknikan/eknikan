@@ -26,7 +26,7 @@
 
 - [Checklists](https://github.com/eknikan/checklist)
 - [Test-Suites and Test-Cases](https://github.com/eknikan/test-cases)
-- [Test-Analysis]([https://github.com/eknikan/test-analysis](https://docs.google.com/spreadsheets/d/1krCUFEUeEdrHC1LSzPrPyiQaOBs0b2Puc4QTCX7Ehys/edit#gid=0))
+- [Test-Analysis](https://github.com/eknikan/test-analysis)
 - [Bug-Reports](https://github.com/eknikan/bug-reports)
 - [SQL Queries](https://github.com/eknikan/SQL)
 - [Postman Collections](https://github.com/eknikan/postman)
